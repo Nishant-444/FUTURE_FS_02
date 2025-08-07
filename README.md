@@ -38,7 +38,7 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
 1.  **Clone the repository** to your local machine:
 
     ```bash
-    git clone [https://github.com/Nishant-444/FUTURE_FS_02.git]([https://github.com/your-username/your-repository-name.git](https://github.com/Nishant-444/FUTURE_FS_02.git))
+    git clone https://github.com/Nishant-444/FUTURE_FS_02.git
     ```
 
 2.  **Navigate into the project directory**:
